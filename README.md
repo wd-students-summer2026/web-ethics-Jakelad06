@@ -3,7 +3,12 @@ You will research and present an ethical issue related to the Internet and/or Th
 
 ## Issue overview
 
-TBD by you. See instructions below.
+The company Flock Safety is a hot topic in the US right now. On on hand, it can be argued that they are aiding in the prevention of crime with their ai-powered surveillance--but it has also been found that their use has led to inaccurate arrests and unlawful use by ICE and other oppressive forces. 
+
+Links: 
+https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-ceo-goes-ballistic
+
+https://vcij.org/stories/flock-cameras-are-used-for-immigration-enforcement
 
 ## Instructions
 
